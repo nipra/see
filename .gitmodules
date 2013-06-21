@@ -1,0 +1,3 @@
+[submodule "books/mastering-algorithms-with-c/levawc"]
+	path = books/mastering-algorithms-with-c/levawc
+	url = https://github.com/dale48/levawc.git
